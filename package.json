@@ -8,6 +8,7 @@
   "dependencies": {
     "apify": "^3.4.2",
     "crawlee": "^3.13.8",
-    "puppeteer": "^22.8.2"
+    "puppeteer": "^22.8.2",
+    "@puppeteer/browsers": "^1.10.1"
   }
 }
