@@ -8,6 +8,6 @@
   "dependencies": {
     "apify": "^3.4.2",
     "crawlee": "^3.13.8",
-    "puppeteer": "^21.3.8"  // AÑADE ESTA LÍNEA
+    "puppeteer": "^21.3.8"
   }
 }
